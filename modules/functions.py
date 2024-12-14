@@ -1,4 +1,4 @@
-FILEPATH = "Files/todo.txt"
+FILEPATH = "files/todo.txt"
 
 def get_todos(file_path=FILEPATH):
     """Return the to-do list from the specified file."""
