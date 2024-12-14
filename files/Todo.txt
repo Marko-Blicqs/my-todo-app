@@ -1,5 +1,4 @@
-Clean The Room
-Find The Thing That Is Lost
-Learn Lots Of Python Quickly
-Tidy the bedroom
-Celebrate the long race.
+Do some coding
+Do the washing
+Go for a walk
+Find the cat
